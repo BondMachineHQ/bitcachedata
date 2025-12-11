@@ -1,0 +1,10 @@
+{
+  "entries": {
+    "845125ff54a5dadd731c04387f21c22d": {
+      "md5": "845125ff54a5dadd731c04387f21c22d",
+      "binary_path": "builds/examples/example.bit",
+      "source_file": "example.vhd",
+      "timestamp": "2025-12-11T09:32:18.520242469+00:00"
+    }
+  }
+}
