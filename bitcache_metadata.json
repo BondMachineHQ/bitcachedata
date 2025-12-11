@@ -5,12 +5,6 @@
       "binary_path": "basys3/proj_counter/4ab2c00a1f1f407d12dcc3679aba4e86/bondmachine_main.bit",
       "source_file": "bondmachine.hdl",
       "timestamp": "2025-12-11T13:42:06.779628506+00:00"
-    },
-    "845125ff54a5dadd731c04387f21c22d": {
-      "md5": "845125ff54a5dadd731c04387f21c22d",
-      "binary_path": "builds/examples/example.bit",
-      "source_file": "example.vhd",
-      "timestamp": "2025-12-11T09:32:18.520242469+00:00"
     }
   }
 }
