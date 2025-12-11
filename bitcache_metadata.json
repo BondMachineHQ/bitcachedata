@@ -8,9 +8,9 @@
     },
     "4ab2c00a1f1f407d12dcc3679aba4e86": {
       "md5": "4ab2c00a1f1f407d12dcc3679aba4e86",
-      "binary_path": "basys3/bondgo/counter/bondmachine_main.bit",
+      "binary_path": "basys3/033[31m[Project: proj_counter]033[0m - /bondmachine_main.bit",
       "source_file": "bondmachine.hdl",
-      "timestamp": "2025-12-11T10:37:59.994393555+00:00"
+      "timestamp": "2025-12-11T11:56:36.783869136+00:00"
     }
   }
 }
