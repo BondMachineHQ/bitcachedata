@@ -11,6 +11,12 @@
       "binary_path": "zedboard/zedboard_bellstate/f934ad471a3cb6984dd460ace8865aaf/bm_design_wrapper.bit",
       "source_file": "bondmachine.hdl",
       "timestamp": "2025-12-11T14:09:07.014160295+00:00"
+    },
+    "428fadd624b713205aae398a0aef0bd5": {
+      "md5": "428fadd624b713205aae398a0aef0bd5",
+      "binary_path": "zedboard/zedboard_bellstate/428fadd624b713205aae398a0aef0bd5/bm_design.hwh",
+      "source_file": "bondmachine.plus",
+      "timestamp": "2025-12-11T14:09:11.946137252+00:00"
     }
   }
 }
