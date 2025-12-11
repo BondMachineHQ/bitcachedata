@@ -5,6 +5,12 @@
       "binary_path": "basys3/proj_counter/4ab2c00a1f1f407d12dcc3679aba4e86/bondmachine_main.bit",
       "source_file": "bondmachine.hdl",
       "timestamp": "2025-12-11T13:42:49.447279817+00:00"
+    },
+    "f934ad471a3cb6984dd460ace8865aaf": {
+      "md5": "f934ad471a3cb6984dd460ace8865aaf",
+      "binary_path": "zedboard/zedboard_bellstate/f934ad471a3cb6984dd460ace8865aaf/bm_design_wrapper.bit",
+      "source_file": "bondmachine.hdl",
+      "timestamp": "2025-12-11T14:09:07.014160295+00:00"
     }
   }
 }
