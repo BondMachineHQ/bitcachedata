@@ -6,6 +6,12 @@
       "source_file": "bondmachine.plus",
       "timestamp": "2025-12-11T15:51:38.921574130+00:00"
     },
+    "428fadd624b713205aae398a0aef0bd5": {
+      "md5": "428fadd624b713205aae398a0aef0bd5",
+      "binary_path": "zedboard/zedboard_bellstate/428fadd624b713205aae398a0aef0bd5/bm_design.hwh",
+      "source_file": "bondmachine.plus",
+      "timestamp": "2025-12-11T14:59:30.701518875+00:00"
+    },
     "6c8467fd88c4af02e09330ff72963010": {
       "md5": "6c8467fd88c4af02e09330ff72963010",
       "binary_path": "zedboard/bmsymtests/6c8467fd88c4af02e09330ff72963010/bm_design_wrapper.bit",
@@ -30,11 +36,11 @@
       "source_file": "bondmachine.hdl",
       "timestamp": "2025-12-11T15:51:34.357845169+00:00"
     },
-    "428fadd624b713205aae398a0aef0bd5": {
-      "md5": "428fadd624b713205aae398a0aef0bd5",
-      "binary_path": "zedboard/zedboard_bellstate/428fadd624b713205aae398a0aef0bd5/bm_design.hwh",
+    "04dbc54ec73cd7c47e867c1121fa6dbb": {
+      "md5": "04dbc54ec73cd7c47e867c1121fa6dbb",
+      "binary_path": "zedboard/bmsymtests/04dbc54ec73cd7c47e867c1121fa6dbb/bm_design.hwh",
       "source_file": "bondmachine.plus",
-      "timestamp": "2025-12-11T14:59:30.701518875+00:00"
+      "timestamp": "2025-12-11T16:22:17.320849681+00:00"
     }
   }
 }
