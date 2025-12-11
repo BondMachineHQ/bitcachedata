@@ -2,9 +2,9 @@
   "entries": {
     "4ab2c00a1f1f407d12dcc3679aba4e86": {
       "md5": "4ab2c00a1f1f407d12dcc3679aba4e86",
-      "binary_path": "basys3/4ab2c00a1f1f407d12dcc3679aba4e86/proj_counter/bondmachine_main.bit",
+      "binary_path": "basys3/proj_counter/4ab2c00a1f1f407d12dcc3679aba4e86/bondmachine_main.bit",
       "source_file": "bondmachine.hdl",
-      "timestamp": "2025-12-11T13:39:08.783420109+00:00"
+      "timestamp": "2025-12-11T13:39:56.433338522+00:00"
     },
     "845125ff54a5dadd731c04387f21c22d": {
       "md5": "845125ff54a5dadd731c04387f21c22d",
